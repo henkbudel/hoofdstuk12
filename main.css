@@ -1,0 +1,80 @@
+
+header{
+background-color: #ff0000;
+width: 100%;
+height: 100px;
+}
+
+footer{
+background-color: #0000ff;
+width: 100%;
+height: 100px;
+}
+
+body{
+  background-color: gray;
+}
+
+#bgcolor01{
+  background-color: red;
+}
+
+#bgcolor02{
+  background-color: salmon;
+}
+
+#bgcolor03{
+  background-color: pink;
+}
+
+#bgcolor04{
+  background-color: green;
+}
+
+#bgcolor05{
+  background-color: olive;
+}
+
+#bgcolor06{
+  background-color: lime;
+}
+
+#bgcolor07{
+  background-color: teal;
+}
+
+#bgcolor08{
+  background-color: aqua;
+}
+
+#bgcolor09{
+  background-color: cyan;
+}
+
+#bgcolor10{
+  background-color: fuchsia;
+}
+
+#bgcolor11{
+  background-color: plum;
+}
+
+#bgcolor12{
+  background-color: silver;
+}
+
+#bgcolor13{
+  background-color: tan;
+}
+
+#bgcolor14{
+  background-color: peru;
+}
+
+#bgcolor15{
+  background-color: skyblue;
+}
+
+#bgcolor16{
+  background-color: royalblue;
+}
